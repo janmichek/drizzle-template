@@ -1,4 +1,4 @@
-// import Contract from './contracts/SimpleStorage.json'
+// import Contract from './contracts/Contract.json'
 
 const options = {
   web3: {
