@@ -7,9 +7,6 @@ Run Ganache quickstart Workspace
 
 ## Init project
 
-### Init Truffle project 
-``` truffle init ```
-
 ### Install dependencies
 ```cd frontend```
 
@@ -21,3 +18,7 @@ Run Ganache quickstart Workspace
 ### Deploy contracts to blockchain
 ```truffle migrate --reset```
 
+## Run project
+```cd frontend```
+
+```yarn serve```
