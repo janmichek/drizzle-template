@@ -1,11 +1,9 @@
 {
-  "name": "tutorial-truffle",
+  "name": "drizzle-template",
   "version": "0.1",
   "description": "",
-  "keywords": [],
   "author": {
     "name": "Jan Michek",
     "email": "jan@janmichek.cz"
-  },
-  "license": "ISC"
+  }
 }

@@ -1,4 +1,6 @@
 ### Drizzle template
+Predefined project with Truffle & Drizzle
+Good starting point for another projects.
 
 ## Dependencies
 - Ganache https://www.trufflesuite.com/ganache
