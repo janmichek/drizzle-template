@@ -1,4 +1,4 @@
-### Truffle template
+### Drizzle template
 
 ## Dependencies
 - Ganache https://www.trufflesuite.com/ganache
@@ -6,7 +6,6 @@
 Run Ganache quickstart Workspace
 
 ## Init project
-
 ### Install dependencies
 ```cd frontend```
 
