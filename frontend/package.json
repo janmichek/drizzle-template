@@ -1,5 +1,5 @@
 {
-  "name": "frontend",
+  "name": "drizzle-template-frontend",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
@@ -7,7 +7,6 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
-    "@drizzle/store": "^1.5.0",
     "@drizzle/vue-plugin": "^0.1.0",
     "prettier": "^1.18.2",
     "vue": "^2.6.10",
